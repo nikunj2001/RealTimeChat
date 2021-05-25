@@ -1,0 +1,7 @@
+npm project
+index js html css
+install dependices
+create a server
+create front end
+socket io
+setup socket iop
